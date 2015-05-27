@@ -1,2 +1,5 @@
-# SystemeExpert-Villes-IA01
-Système expert développé en Lisp pour un cours d'IA
+# Systeme Expert - IA01
+
+Système expert développé en Lisp pour un cours d'IA à l'UTC.
+L’objectif de ce TP est de développer un système expert d’ordre 0+ depuis sa phase d’expertise jusqu’à sa phase d’utilisation.
+Nous avons décidé de traiter le sujet suivant : "Retrouvez dans quelle ville vous vous situez"
